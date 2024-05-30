@@ -1,6 +1,5 @@
 /*
-* This program prints out
-* the Magic Sqaures.
+* This is the magic squares program.
 *
 * @author  Andi Cucka
 * @version 1.0
